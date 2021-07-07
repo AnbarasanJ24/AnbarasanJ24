@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnbarasanJ24
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Node JS & Express JS
+- 🌱 I’m currently learning Micro Front end
 - 💞️ I’m looking to collaborate on Scaleable Projects
 - 📫 How to reach me anbarasanj24@gmail.com or +91 9791333906
 
