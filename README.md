@@ -4,8 +4,6 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 ----
 
-![GitHub watchers](https://img.shields.io/github/watchers/AnbarasanJ24/100Days-JS-DS-Algo?style=social) 
-
 Web developer with around 2 years of front-end experience and passion for responsive website design.I enjoy working on different business problems and delight the user with magnificent web performance. Regular attendee of web developer meetups.
 
 Develop interactive, user-friendly applications using the latest framework. Run web performance test to identify opportunities to speed up the applicationDesigned optimized design for 8 screen sizes using responsively app, flexbox, grid, and media queries
