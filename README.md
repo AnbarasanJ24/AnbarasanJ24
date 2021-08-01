@@ -13,7 +13,6 @@ Attended several brainstorming sessions and gained better 80% visibility towards
 ---
 ToolBox
 
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40" />
 ----
 
