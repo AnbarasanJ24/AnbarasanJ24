@@ -18,9 +18,10 @@ ToolBox
 
 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnbarasanJ24&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnbarasanJ24)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnbarasanJ24&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnbarasanJ24)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
+[![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnbarasanJ24&theme=react-dark)](https://github.com/AnbarasanJ24)
 <!---
 AnbarasanJ24/AnbarasanJ24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
