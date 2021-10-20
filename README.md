@@ -1,8 +1,5 @@
-Page Under Construction
 
-Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"> , I’m Anbarasan!  
-
-Web developer with around 2 years of front-end experience and passion for responsive website design.I enjoy working on different business problems and delight the user with magnificent web performance. Regular attendee of web developer meetups.
+![anbarasan24-intro](https://github.com/AnbarasanJ24/AnbarasanJ24/blob/main/Github%20Readme.gif)
 
 ---
 ToolBox
