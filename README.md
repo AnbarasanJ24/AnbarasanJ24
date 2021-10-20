@@ -4,10 +4,15 @@
 ---
 ToolBox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40" />
-----
+<p align="left"> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/nolan/48/react-native.png"/> </a>
+   <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/nolan/48/angularjs.png"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/nolan/48/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/nolan/48/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/nolan/48/git.png"/> </a> 
+</p>
 
-Stats
+Progress
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnbarasanJ24&show_icons=true&theme=tokyonight" />
@@ -19,9 +24,10 @@ Stats
 </p>
 
 
-
-
-<!---
-AnbarasanJ24/AnbarasanJ24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/48/git.png"/> </a>  -->
+<!--     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/nolan/48/nodejs.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+  
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/nolan/48/redux.png"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
