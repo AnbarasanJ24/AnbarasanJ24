@@ -2,6 +2,15 @@
 ![anbarasan24-intro](https://github.com/AnbarasanJ24/AnbarasanJ24/blob/main/Github%20Readme.gif)
 
 ---
+<h3>Say 👋 to me at</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/anbarasan-jayakumar-b936a2129/"><img src="https://img.shields.io/badge/-Anbarasan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/AnbarasanJ8"><img src="https://img.shields.io/twitter/url?color=White&label=Anbarasan&style=social&url=https%3A%2F%2Ftwitter.com%2FMaanilV"/></a>
+<a href="mailto:anbarasanj24@gmail.com"><img src="https://img.shields.io/badge/-anbarasanj24@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
+
 <h3>Tool Box</h3>
 
 <p align="left"> 
@@ -34,13 +43,8 @@
   <img width="96%"  src="https://activity-graph.herokuapp.com/graph?username=AnbarasanJ24&theme=react-dark" />
 </p>
 
-
-<!--     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/48/git.png"/> </a>  -->
-<!--     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/nolan/48/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-  
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/nolan/48/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
-
-<!-- <a href="https://icons8.com/icon/9DkUuUZXO8fk/in-progress">In Progress icon by Icons8</a> -->
+<img src="https://komarev.com/ghpvc/?username=AnbarasanJ24" alt="AnbarasanJ24" />
+<!-- <a href="https://github.com/AnbarasanJ24/Intermediate-Ecommerce-micro-front-end">
+  <img align="center" style="margin-left:2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AnbarasanJ24&repo=Intermediate-Ecommerce-micro-front-end&theme=tokyonight" />
+</a>
+ -->
