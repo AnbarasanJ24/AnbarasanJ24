@@ -1,9 +1,9 @@
 
 <!-- ![anbarasan24-intro](https://github.com/AnbarasanJ24/AnbarasanJ24/blob/main/Github%20Readme.gif) -->
 <p align="center">
-  <img width="600px";height="500px" src="https://github.com/AnbarasanJ24/AnbarasanJ24/blob/main/Github%20Readme.gif" />
+  <img width="650px";height="500px" src="https://github.com/AnbarasanJ24/AnbarasanJ24/blob/main/Github%20Readme.gif" />
 </p>
----
+
 <h3>Say 👋 to me at</h3>
 
 <p align="center">
