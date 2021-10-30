@@ -3,7 +3,7 @@
 <p align="center">
   <img width="650px";height="500px" src="https://github.com/AnbarasanJ24/AnbarasanJ24/blob/main/Github%20Readme.gif" />
 </p>
-
+<img src="https://komarev.com/ghpvc/?username=AnbarasanJ24" alt="AnbarasanJ24" />
 <h3>Say 👋 to me at</h3>
 
 <p align="center">
@@ -45,7 +45,7 @@
   <img width="96%"  src="https://activity-graph.herokuapp.com/graph?username=AnbarasanJ24&theme=react-dark" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=AnbarasanJ24" alt="AnbarasanJ24" />
+
 <!-- <a href="https://github.com/AnbarasanJ24/Intermediate-Ecommerce-micro-front-end">
   <img align="center" style="margin-left:2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AnbarasanJ24&repo=Intermediate-Ecommerce-micro-front-end&theme=tokyonight" />
 </a>
