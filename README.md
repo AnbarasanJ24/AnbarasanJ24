@@ -22,7 +22,7 @@
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <img src="https://img.icons8.com/color/48/000000/docker.png"/>
     <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
-<!--     <img src="https://img.icons8.com/color/48/000000/graphql.png"/> -->
+    <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
     <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
     <img src="https://img.icons8.com/color/48/000000/sass.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
